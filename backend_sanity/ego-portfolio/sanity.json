@@ -1,0 +1,11 @@
+{
+    "root": true,
+    "project": {
+        "name": "ego-portfolio"
+    },
+    "api": {
+        "projectId": "yokbyyo0",
+        "dataset": "ego-portfolio"
+    },
+    "plugins": []
+}
