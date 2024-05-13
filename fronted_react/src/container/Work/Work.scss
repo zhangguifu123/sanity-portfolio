@@ -60,6 +60,8 @@
       cursor: pointer;
       transition: all 0.3s ease;
   
+      box-shadow: none; // Reset shadow when not hovering
+      
       &:hover {
         box-shadow: 0 0 25px rgba(0, 0, 0, 0.2);
       }
